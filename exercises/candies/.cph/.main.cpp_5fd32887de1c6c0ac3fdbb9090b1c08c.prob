@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"c:\\Users\\HP\\OneDrive\\Desktop\\Riccardo\\C++\\Corso 3\\candies\\main.cpp","tests":[{"id":1697547029874,"input":"5\n200 150 900 690 425","output":"15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\OneDrive\\Desktop\\Riccardo\\C++\\Corso 3\\candies\\main.cpp","group":"local","local":true}
